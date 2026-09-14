@@ -2,7 +2,7 @@
   "_comment": "Zorunlu/önerilen güncelleme kuralı. Yayın adresi: https://gonixapps.github.io/cupzy/app-config.json (bkz. Sources/AppUpdate.swift). min_version altındaki sürüm oynatılmaz; latest_version altındaki sürüme bir kez sorulur. İKİ SAYIYI DA yalnızca o sürüm App Store'da YAYINDAYKEN yükselt. Bu dosya ilk kez yayımlandığında 1.0.0 ve 1.0.1 bu denetimi içermiyor; kural yalnızca denetimi taşıyan sürümden itibaren işler.",
   "ios": {
     "min_version": "1.0.0",
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.3",
     "store_url": "https://apps.apple.com/app/id6797308797"
   }
 }
